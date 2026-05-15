@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>Blender Cute Shooter</title>
+    <link rel="stylesheet" href="styles.css" />
+
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+          "three/examples/jsm/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+        }
+      }
+    </script>
+  </head>
+
+  <body>
+    <div class="bg">
+      <span class="blob b1"></span>
+      <span class="blob b2"></span>
+      <span class="blob b3"></span>
+    </div>
+
+    <!-- HUD -->
+    <header class="hud">
+      <div class="hud__left">
+        <div class="pill">Mode <b id="modeText">HUB</b></div>
+        <div class="pill">Stage <b id="stageText">1</b></div>
+        <div class="pill">Goal <b id="goalText">50</b></div>
+        <div class="pill">Score <b id="score">0</b></div>
+
+        <div class="pill hpPill">
+          HP <b id="hpText">100</b>
+          <div class="hpBar"><div id="hpBarFill"></div></div>
+        </div>
+      </div>
+
+      <div class="hud__right">
+        <button id="btnSound" class="btn">SOUND: ON</button>
+        <button id="btnRestart" class="btn">RESTART</button>
+        <button id="btnToHub" class="btn">HUB</button>
+      </div>
+    </header>
+
+    <!-- HUB 안내/로딩 화면 -->
+    <section id="hubOverlay" class="screen">
+      <div class="card">
+        <div class="badge">
+          マップを歩いて、行きたいステージの場所へ行こう！
+        </div>
+        <h1>HUB:ステージ選択</h1>
+        <p class="sub">うさちゃんシューティングゲーム</p>
+
+        <div class="miniInfo">
+          <div class="miniCard">
+            <h2>💛操作💛</h2>
+            <ul>
+              <li><b>W/A/S/D</b> or <b>↑↓←→</b>：移動</li>
+              <li><b>Space</b>：ショット</li>
+              <li><b>E</b>：ステージ決定（近くで）</li>
+              <li><b>Shift押しながら移動</b>：低速移動</li>
+            </ul>
+          </div>
+          <div class="miniCard">
+            <h2>💛ルール💛</h2>
+            <ul>
+              <li>HP0でゲームオーバー</li>
+              <li>ステージが上がるほど難易度UP</li>
+              <li>Goal達成でクリア → 次のへステージへ</li>
+            </ul>
+          </div>
+        </div>
+
+        <p id="loadHint" class="hint">player.glb を読み込み中…</p>
+        <button id="btnEnterHub" class="btn big primary" disabled>
+          LOADING…
+        </button>
+      </div>
+    </section>
+
+    <!-- Result Screen -->
+    <section id="resultScreen" class="screen" style="display: none">
+      <div class="card">
+        <div id="resultBadge" class="badge">CLEAR</div>
+        <h1 id="resultTitle">STAGE CLEAR!</h1>
+        <p id="resultSub" class="sub"></p>
+
+        <div class="resultBtns">
+          <button id="btnNextStage" class="btn primary big">NEXT STAGE</button>
+          <button id="btnRetry" class="btn big">RETRY</button>
+          <button id="btnBackToHub" class="btn big">BACK TO HUB</button>
+        </div>
+
+        <p class="hint"></p>
+      </div>
+    </section>
+
+    <!-- 画面下のメッセージ -->
+    <div id="toast" class="toast"></div>
+
+    <canvas id="c"></canvas>
+
+    <script type="module" src="./script.js"></script>
+  </body>
+</html>
