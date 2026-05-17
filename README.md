@@ -152,6 +152,17 @@
 
 ---
 
+## 🧰 使用している技術・スキル
+
+自分がこれまでの作品で使用した言語やツールです。
+
+* **Frontend:** HTML5, CSS3, JavaScript, p5.js
+* **Languages:** Python, Java (学習中)
+* **Design / Creative Tools:** Photoshop, Illustrator, Blender
+* **Development Tools:** CodeSandbox
+
+---
+
 ## 👤 作者について
 
 * **名前:** 斉藤日和（さいとうひより）
