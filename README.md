@@ -17,7 +17,7 @@
 大学の講義（マルチメディア論及び演習）にて企画・制作した、架空のIoTプロダクト「Face Necklace」のWebバナー広告です。
 
 <div align="center">
-  <img src="iot-necklace-banner.jpg" alt="Photoshop Banner Design" width="70%">
+  <img src="product-banner.jpg" alt="Photoshop Banner Design" width="70%">
 </div>
 
 ### 🎨 デザインの意図・UI/UXのこだわり
