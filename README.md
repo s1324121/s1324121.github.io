@@ -1,3 +1,4 @@
+<img width="1000" height="835" alt="product-banner jpg" src="https://github.com/user-attachments/assets/d5769c49-328b-467e-970b-c3cc5e754ad8" />
 # s1324121.github.io こんにちは
 <img width="400" height="300" alt="rabbit_animation gif" src="https://github.com/user-attachments/assets/1f74c034-fa7a-4532-86c1-7480e40796d9" />
 ### 🛠 作品概要・技術的アプローチ
