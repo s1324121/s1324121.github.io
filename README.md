@@ -63,7 +63,7 @@
 
 ---
 
-### 4. スキンケア相談chat
+### 5. スキンケア相談chat
 * **Live Demo:** https://s1324121.github.io/skincare-ai-chat/
 * **Repository:** https://github.com/s1324121/skincare-ai-chat
 
