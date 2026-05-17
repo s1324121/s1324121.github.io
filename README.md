@@ -1,8 +1,9 @@
 # s1324121.github.io こんにちは
 <img width="400" height="300" alt="rabbit_animation gif" src="https://github.com/user-attachments/assets/1f74c034-fa7a-4532-86c1-7480e40796d9" />
+
 ## About
 
-Blenderで制作した、ピンクのうさぎが夜の森を進む3Dアニメーションです。ローポリゴンの世界観の中で、キャラクターの動きとカメラワークの連動にこだわりました。
+> Blenderで制作した、ピンクのうさぎが夜の森を進む3Dアニメーションです。ローポリゴンの世界観の中で、キャラクターの動きとカメラワークの連動にこだわりました。
 
 ## 概要
 
