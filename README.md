@@ -5,12 +5,7 @@
 <br>
 
 
-## 👤 作者について
 
-* **名前:** 斉藤日和（さいとうひより）
-* **ひとこと:** 現在はJavaの学習に励んでいます！
-
----
 
 
 ##  作成した作品一覧
@@ -172,4 +167,9 @@
 * **Design / Creative Tools:** Photoshop, Illustrator, Blender
 * **Development Tools:** CodeSandbox
 
+---
 
+## 👤 作者について
+
+* **名前:** 斉藤日和（さいとうひより）
+* **ひとこと:** 現在はJavaの学習に励んでいます！
