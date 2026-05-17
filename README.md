@@ -1,4 +1,56 @@
-# s1324121.github.io こんにちは
+# My GitHub Pages Portfolio
+
+これまでに作成したGitHub Pagesのプロジェクトをまとめたポートフォリオページです。
+
+##  作成した作品一覧
+
+### 1. うさちゃんシューティングゲーム
+*  **Live Demo:** https://s1324121.github.io/blender-cute-shooter/
+*  **Repository:**　https://github.com/s1324121/blender-cute-shooter
+
+**【説明】**
+キャラを動かして流れてくる的を狙う、3Dシューティングゲームです。
+
+**【使用ツール・言語】**
+> * HTML5 / CSS3
+> * JavaScript（Three.js）
+> * Blender（キャラクターや背景などの3Dモデル作成）
+> * 生成AI（コードの作成に活用。）
+
+---
+
+### 2. [作品名2（例：自己紹介サイト）]
+* 🔗 **Live Demo:** [GitHub PagesのURLをここに]
+* 💻 **Repository:** [ソースコードのリポジトリURLをここに]
+
+**【説明】**
+[例：初めて作成した、自分の趣味やスキルを紹介するレスポンシブWebサイトです。]
+
+**【使用ツール・言語】**
+* HTML5 / Tailwind CSS
+
+---
+
+## 🧰 使用している技術・スキル
+
+自分がこれまでの作品で使用した言語やツールです。
+
+* **Frontend:** HTML5, CSS3, JavaScript (ES6)
+* **Frameworks/Libraries:** Boostrap, Tailwind CSS (使っていれば)
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+## 👤 作者について
+
+* **名前:** [あなたの名前やハンドルネーム]
+* **ひとこと:** [Web制作を勉強中です！など、簡単な意気込み]
+* **Links:** [X(Twitter)のURLなどがあれば]
+
+
+
+
+
 # rabbit-animation
 <img width="400" height="300" alt="rabbit_animation gif" src="https://github.com/user-attachments/assets/1f74c034-fa7a-4532-86c1-7480e40796d9" />
 
