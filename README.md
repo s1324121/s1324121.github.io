@@ -12,8 +12,8 @@
 Blenderで自作した可愛いキャラクターが登場する、ブラウザ向けの3Dシューティングゲームです。Three.jsでの実装やモデリングにAIを活用しながら、デザインから開発まで一人で挑戦しました。。
 
 **【使用ツール・言語】**
-> * HTML5 / CSS3
-> * JavaScript（Three.js）
+ * HTML5 / CSS3
+ * JavaScript（Three.js）
 > * Blender（キャラクターや背景などの3Dモデル作成）
 > * 生成AI（コードの作成に活用。）
 
