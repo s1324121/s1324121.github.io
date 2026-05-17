@@ -156,8 +156,8 @@
 
 自分がこれまでの作品で使用した言語やツールです。
 
-* **Frontend:** HTML5, CSS3, JavaScript, p5.js
-* **Languages:** Python, Java (学習中)
+* **Web (Frontend):** HTML, CSS, JavaScript, p5.js
+* **Backend / Scripting:** Python, Java (学習中)
 * **Design / Creative Tools:** Photoshop, Illustrator, Blender
 * **Development Tools:** CodeSandbox
 
