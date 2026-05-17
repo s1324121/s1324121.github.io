@@ -63,19 +63,17 @@
 
 ---
 
-### 4. BOOKメモアプリ
-* **Live Demo:** https://s1324121.github.io/book-memo-app/
-* **Repository:** https://github.com/s1324121/book-memo-app
+### 4. スキンケア相談chat
+* **Live Demo:** https://s1324121.github.io/skincare-ai-chat/
+* **Repository:** https://github.com/s1324121/skincare-ai-chat
 
 **【説明】**
-* Google Books APIによる本検索と、ローカルストレージでのデータ保存ができる読書メモアプリです。AIを活用して開発を効率化し、一度サイトを離れてもデータが残る実用的なアプリに仕上げました。
+* 肌質や年齢に合わせたスキンケア方法をAIに相談できるチャットアプリです。利用者が自分のAPIキーを設定します。AIのサポートをフルに活用しながら、使いやすさにこだわって効率よく開発しました。
 
 **【使用ツール・言語】**
-* HTML5 / CSS3（画面のレイアウト、レスポンシブ対応）
-* JavaScript（ES6）（APIとの非同期通信、メモの追加・削除処理）
-* Google Books API（書籍データの取得）
-* localStorage（ブラウザを閉じてもデータが消えないようにする保存処理
-* ChatGPT（コード生成、エラーのデバッグ、仕組みの解説）
+ * HTML5 / CSS3（見やすく操作しやすい画面のデザインとレイアウト）
+ * JavaScript（APIとの通信や、チャット画面のリアルタイムな動きの実装）
+ * 生成AI（コードの作成サポート、デバッグ、エラー原因の調査に活用）
 
 ---
 
