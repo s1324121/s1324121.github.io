@@ -9,7 +9,7 @@
 *  **Repository:**　https://github.com/s1324121/blender-cute-shooter
 
 **【説明】**
-キャラを動かして流れてくる的を狙う、3Dシューティングゲームです。
+Blenderで自作した可愛いキャラクターが登場する、ブラウザ向けの3Dシューティングゲームです。Three.jsでの実装やモデリングにAIを活用しながら、デザインから開発まで一人で挑戦しました。。
 
 **【使用ツール・言語】**
 > * HTML5 / CSS3
@@ -19,15 +19,15 @@
 
 ---
 
-### 2. [作品名2（例：自己紹介サイト）]
-* 🔗 **Live Demo:** [GitHub PagesのURLをここに]
-* 💻 **Repository:** [ソースコードのリポジトリURLをここに]
+### 2. VIRTUAL　FASHION　SHOW
+* **Live Demo:** https://s1324121.github.io/virtual-fashion-show/
+* **Repository:** https://github.com/s1324121/virtual-fashion-show
 
 **【説明】**
-[例：初めて作成した、自分の趣味やスキルを紹介するレスポンシブWebサイトです。]
+テーマに合わせたコーディネートを選び、タイミングよく画面をタップしてファッションショーを成功させるゲームです。すべてJavaScriptを使って動的に構築し、遊んでいて楽しい演出と操作感にこだわりました
 
 **【使用ツール・言語】**
-* HTML5 / Tailwind CSS
+> * JavaScript
 
 ---
 
