@@ -1,4 +1,3 @@
-<img width="1000" height="835" alt="product-banner jpg" src="https://github.com/user-attachments/assets/d5769c49-328b-467e-970b-c3cc5e754ad8" />
 # s1324121.github.io こんにちは
 <img width="400" height="300" alt="rabbit_animation gif" src="https://github.com/user-attachments/assets/1f74c034-fa7a-4532-86c1-7480e40796d9" />
 ### 🛠 作品概要・技術的アプローチ
@@ -17,9 +16,7 @@
 
 大学の講義（マルチメディア論及び演習）にて企画・制作した、架空のIoTプロダクト「Face Necklace」のWebバナー広告です。
 
-<div align="center">
-  <img src="product-banner.jpg" alt="Photoshop Banner Design" width="70%">
-</div>
+<img width="1000" height="835" alt="product-banner jpg" src="https://github.com/user-attachments/assets/d5769c49-328b-467e-970b-c3cc5e754ad8" />
 
 ### 🎨 デザインの意図・UI/UXのこだわり
 * **視覚的なヒエラルキー（情報設計）**
