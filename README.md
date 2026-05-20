@@ -1,4 +1,4 @@
-# My GitHub Pages Portfolio
+# Saito Hiyori’ｓ GitHub Pages Portfolio
 
 これまでに作成したGitHub Pagesのプロジェクトをまとめたポートフォリオページです。
 
