@@ -1,6 +1,6 @@
 # Saito Hiyori’s GitHub Pages Portfolio
 
-これまでに作成したGitHub Pagesのプロジェクトをまとめたポートフォリオページです。
+大妻女子大学社会情報学部斉藤日和がこれまでに作成したGitHub Pagesのプロジェクトをまとめたポートフォリオページです。
 
 <br>
 
